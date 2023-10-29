@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d5597041c211534581e27b614c8b057, type: 3}
+  m_Name: Body_5
+  m_EditorClassIdentifier: 
+  itemName: Red  hot
+  coinValue: 25
+  shopIcon: {fileID: -511164974, guid: 0d701437c37d4d44bb56a9a449085355, type: 3}
+  AssetLib: {fileID: 7108339969198208228, guid: 7367665b9ec263a40ab4e866523bcc85, type: 3}
+  itemType: 0
+  bought: 0

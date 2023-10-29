@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d5597041c211534581e27b614c8b057, type: 3}
+  m_Name: Pants_2
+  m_EditorClassIdentifier: 
+  itemName: Blue pants
+  coinValue: 10
+  shopIcon: {fileID: -1455885089, guid: d4a7631db5842a241ba512c3cf7b7598, type: 3}
+  AssetLib: {fileID: 7108339969198208228, guid: 02b8c31014c252243b646bfc1d331633, type: 3}
+  itemType: 2
+  bought: 0

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d5597041c211534581e27b614c8b057, type: 3}
+  m_Name: Shoes_3
+  m_EditorClassIdentifier: 
+  itemName: Golden shoes
+  coinValue: 55
+  shopIcon: {fileID: -1130703605, guid: c94c45cb25871024c8db968badcd6134, type: 3}
+  AssetLib: {fileID: 7108339969198208228, guid: 3bb16dad5d9ddae44874926efec578d2, type: 3}
+  itemType: 3
+  bought: 0

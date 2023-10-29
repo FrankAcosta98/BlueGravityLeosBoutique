@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d5597041c211534581e27b614c8b057, type: 3}
+  m_Name: Hat_8
+  m_EditorClassIdentifier: 
+  itemName: Brunnet
+  coinValue: 5
+  shopIcon: {fileID: -125632250, guid: c3ba27f86c04ddb498ec33b7442c0a7b, type: 3}
+  AssetLib: {fileID: 7108339969198208228, guid: 7dc00f1c2d976a241bc9e4c493222c6e, type: 3}
+  itemType: 1
+  bought: 0
